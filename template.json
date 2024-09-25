@@ -7,10 +7,10 @@
             "type": "String"
         },
         "adminUsername": {
-            "type": "string"
+            "type": "pawel"
         },
         "adminPassword": {
-            "type": "securestring"
+            "type": "RokiRoki1234"
         },		
         "virtualMachines_gamevm_sku": {
             "defaultValue": "Standard_NG8ads_V620_v1",
